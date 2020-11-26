@@ -1,2 +1,2 @@
 # hello-world
-hola-mundo
+hola-mundo , usando the basics de git! 
